@@ -12,7 +12,7 @@ I seek assistance in allocating my bitcoin reserves and develop a unique app to 
 
 
 contact:
-b.briggs@alliance-assets.uk
+info@33ivv.com
 
 blessings,
 b
