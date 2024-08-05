@@ -8,11 +8,13 @@
 bkb4464/bkb4464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I seek assistance in allocating my bitcoin reserves and develop a unique app to handle the continuous additions and corrections of credentials needed for the bitcoin and banking industries.
+I would like help to create an aggregate ledger ( to manage, auto detect, categorize, report assets) for users with multiple profiles, accounts , devices, iPhone addresses and data sources ( home network, office network , mobile , hot spot, etc ) to include access to international profile accounts.  
+
+
 
 
 contact:
-b.briggs@alliance-assets.uk
+info@33ivv.com
 
 blessings,
 b
